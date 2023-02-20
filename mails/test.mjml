@@ -1,5 +1,5 @@
 <mjml>
-  <mj-body>
+  <mj-body background-color="#ffffff" width="600px">
     <mj-include path="../blocks/footer-full-signature.mjml" />
   </mj-body>
 </mjml>

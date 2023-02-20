@@ -48,52 +48,52 @@
           <mj-image align="center" src="assets/horizontal.png" alt="main-image"></mj-image>
         </mj-column>
       </mj-section>
-      <mj-section padding="32px">
+      <mj-section padding="40px 40px 16px 40px">
         <mj-column width="75%">
-          <mj-text align="left" font-size="15px">
+          <mj-text align="left" font-size="16px" padding-bottom="6px" font-family="Arial, sans-serif">
             <span style="opacity: 0.7;"> Мокин </span>
           </mj-text>
-          <mj-text align="left" font-size="20px">
-            <p> <b> Имя Фамилия </b> </p>
+          <mj-text align="left" font-size="18px" padding-bottom="8px" font-family="Arial, sans-serif">
+            <span> <b> Имя Фамилия </b> </span>
           </mj-text>
-          <mj-text align="left" font-size="15px">
-            <span style="opacity: 0.7;"> Должность </span>
+          <mj-text align="left" font-size="15px" letter-spacing="2px">
+            <span style="opacity: 0.7;"> должность </span>
           </mj-text>
         </mj-column>
-        <mj-column width="25%">
-          <mj-image align="right" src="assets/logo.png" alt="small-logo"></mj-image>
+        <mj-column width="25%" vertical-align="top">
+          <mj-image align="right"  src="assets/logo.png" alt="small-logo"></mj-image>
         </mj-column>
       </mj-section>
-      <mj-section padding-bottom="16px">
-        <mj-column width="10%">
-          <mj-image align="right" src="assets/phone.png" alt="phone" width="30px"></mj-image>
+      <mj-section padding-bottom="20px">
+        <mj-column width="10%" padding-top="8px">
+          <mj-image align="right" src="assets/phone.png" alt="phone" width="20px"></mj-image>
         </mj-column>
         <mj-column width="40%">
-          <mj-text align="left" font-size="15px" padding="16px 24px 16px 8px">
+          <mj-text align="left" font-size="15px" padding="12px 20px 0px 10px">
             <a href="tel:+7 (496) 519-61-71"> +7 (496) 519-61-71 доб. 999 </a>
           </mj-text>
         </mj-column>
-        <mj-column width="10%" padding="8px 8px">
-          <mj-image align="right" src="assets/globe.png" alt="globe" width="30px"></mj-image>
+        <mj-column width="5%" padding="10px 0px">
+          <mj-image align="left" src="assets/globe.png" alt="globe" width="20px"></mj-image>
         </mj-column>
-        <mj-column width="40%">
-          <mj-text align="left" font-size="15px" padding="16px 24px 16px 8px">
+        <mj-column width="45%">
+          <mj-text align="left" font-size="15px" padding="12px 20px 16px 2px">
             <a href="https://ntpz.ru/" target="_blank"> www.ntpz.ru </a>
           </mj-text>
         </mj-column>
-        <mj-column width="10%">
-          <mj-image align="right" src="assets/phone.png" alt="phone" width="30px"></mj-image>
+        <mj-column width="10%" padding-top="8px">
+          <mj-image align="right" src="assets/phone.png" alt="phone" width="20pxpx"></mj-image>
         </mj-column>
         <mj-column width="40%">
-          <mj-text align="left" font-size="15px" padding="16px 24px 16px 8px">
+          <mj-text align="left" font-size="15px" padding="12px 20px 16px 12px">
             <a href="tel:+7 (496) 519-61-71"> +7 (000) 000-00-00 </a>
           </mj-text>
         </mj-column>
-        <mj-column width="10%" padding="8px 8px">
-          <mj-image align="right" src="assets/tg.png" alt="tg" width="30px"></mj-image>
+        <mj-column width="5%" padding="10px 0px">
+          <mj-image align="left" src="assets/tg.png" alt="tg" width="20pxpx"></mj-image>
         </mj-column>
-        <mj-column width="40%">
-          <mj-text align="left" font-size="15px" padding="16px 24px 16px 8px">
+        <mj-column width="45%">
+          <mj-text align="left" font-size="15px" padding="12px 20px 16px 2px">
             <a href="https://t.me/pipesntpz" target="_blank"> @pipesntpz </a>
           </mj-text>
         </mj-column>

@@ -1,0 +1,103 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all padding="0px"></mj-all>
+      <mj-class name="preheader" color="#000000" font-size="11px" font-family="Ubuntu, Helvetica, Arial, sans-serif" padding="0 20px"></mj-class>
+      <mj-class name="cta" color="#FFFFFF" font-size="13px" border-radius="3px" href="https://mjml.io" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding="20px 25px"></mj-class>
+      <mj-class name="footer-text" align="center" color="#ffffff" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="15px" padding="0 25px"></mj-class>
+      <mj-navbar-link padding="0 35px" font-weight="bold" font-size="12px"></mj-navbar-link>
+    </mj-attributes>
+    <mj-style inline="inline">
+      a {
+        text-decoration: none;
+        color: inherit;
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .body-section {
+        -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        background-color: #FFFCF7;
+        border-radius: 10px;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#ffffff" width="600px">
+    <mj-wrapper css-class="body-section">
+      <mj-section border-bottom="15px solid #FCB913">
+        <mj-column>
+          <mj-image src="https://i.ibb.co/JrnnBCg/main.png" alt="logo" align="center" width="250px" padding="20px 0"></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section border-bottom="3px solid #FCB913" padding="8px 8px">
+        <mj-column width="50%">
+          <mj-image align="left" src="assets/february.png" alt="content-image"></mj-image>
+        </mj-column>
+        <mj-column padding="0px 5px" width="50%">
+          <mj-text align="left" line-height="20px" font-family="Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="18px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean varius blandit consectetur. Phasellus sit amet massa euismod, fringilla libero non, venenatis sem. Mauris aliquet placerat semper. Vivamus gravida mi ac convallis commodo. Quisque quis semper dasdas dasd asdasd asdas d asdas dasdasdasd asdasdasda dasd asd asdasda dasdasd asdas dsadasd asdasd.</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section border-bottom="3px solid #FCB913" padding="16px">
+        <mj-column padding="10px 0px">
+          <mj-text align="center" line-height="20px" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="18px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean varius blandit consectetur. Phasellus sit amet massa euismod, fringilla libero non, venenatis sem. Mauris aliquet placerat semper. Vivamus gravida mi ac convallis commodo. Quisque quis semper.</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section border-bottom="10px solid #FCB913" padding="16px">
+        <mj-column width="100%">
+          <mj-image align="center" src="assets/horizontal.png" alt="main-image"></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="32px">
+        <mj-column width="75%">
+          <mj-text align="left" font-size="15px">
+            <span style="opacity: 0.7;"> Мокин </span>
+          </mj-text>
+          <mj-text align="left" font-size="20px">
+            <p> <b> Имя Фамилия </b> </p>
+          </mj-text>
+          <mj-text align="left" font-size="15px">
+            <span style="opacity: 0.7;"> Должность </span>
+          </mj-text>
+        </mj-column>
+        <mj-column width="25%">
+          <mj-image align="right" src="assets/logo.png" alt="small-logo"></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-bottom="16px">
+        <mj-column width="10%">
+          <mj-image align="right" src="assets/phone.png" alt="phone" width="30px"></mj-image>
+        </mj-column>
+        <mj-column width="40%">
+          <mj-text align="left" font-size="15px" padding="16px 24px 16px 8px">
+            <a href="tel:+7 (496) 519-61-71"> +7 (496) 519-61-71 доб. 999 </a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="10%" padding="8px 8px">
+          <mj-image align="right" src="assets/globe.png" alt="globe" width="30px"></mj-image>
+        </mj-column>
+        <mj-column width="40%">
+          <mj-text align="left" font-size="15px" padding="16px 24px 16px 8px">
+            <a href="https://ntpz.ru/" target="_blank"> www.ntpz.ru </a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="10%">
+          <mj-image align="right" src="assets/phone.png" alt="phone" width="30px"></mj-image>
+        </mj-column>
+        <mj-column width="40%">
+          <mj-text align="left" font-size="15px" padding="16px 24px 16px 8px">
+            <a href="tel:+7 (496) 519-61-71"> +7 (000) 000-00-00 </a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="10%" padding="8px 8px">
+          <mj-image align="right" src="assets/tg.png" alt="tg" width="30px"></mj-image>
+        </mj-column>
+        <mj-column width="40%">
+          <mj-text align="left" font-size="15px" padding="16px 24px 16px 8px">
+            <a href="https://t.me/pipesntpz" target="_blank"> @pipesntpz </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

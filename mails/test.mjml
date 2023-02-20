@@ -1,0 +1,5 @@
+<mjml>
+  <mj-body>
+    <mj-include path="../blocks/footer-full-signature.mjml" />
+  </mj-body>
+</mjml>

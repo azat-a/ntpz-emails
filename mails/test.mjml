@@ -1,5 +1,15 @@
 <mjml>
-  <mj-body background-color="#ffffff" width="600px">
-    <mj-include path="../blocks/footer-full-signature.mjml" />
-  </mj-body>
+<mj-head>
+  <mj-attributes>
+    <mj-all padding="0" />
+  </mj-attributes>
+</mj-head>
+
+<mj-body width="640px">
+  <mj-include path="../blocks/header-logo.mjml" />
+
+  <mj-spacer height="100px"/>
+
+  <mj-include path="../blocks/footer-full-signature.mjml" />
+</mj-body>
 </mjml>

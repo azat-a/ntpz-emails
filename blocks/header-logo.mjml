@@ -1,0 +1,12 @@
+<mj-section
+  border-bottom="4px solid #EF9B05"
+  >
+  <mj-column width="640px">
+    <mj-image
+    src="../assets/horizontal.png"
+    width="200px"
+    fluid-on-mobile="true"
+    align="left"
+    padding="16px 0 8px 16px"/>
+  </mj-column>
+</mj-section>

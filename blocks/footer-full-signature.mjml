@@ -47,7 +47,7 @@
                                     cellpadding="0" 
                                     cellspacing="0" 
                                     width="100%" 
-                                    style="max-width: 496px; min-width: 496px;">
+                                    style="max-width: 546px; min-width: 496px;">
                               <tbody>
                                 <tr>
                                   <td align="left">
@@ -81,7 +81,7 @@
                                     cellpadding="0" 
                                     cellspacing="0" 
                                     width="100%" 
-                                    style="max-width: 496px; min-width: 496px;">
+                                    style="max-width: 546px; min-width: 496px;">
                               <tbody>
                                 <tr>
                                   <td align="left">
@@ -95,10 +95,10 @@
                                           <td align="left" width="30">
                                             <img  src="../assets/phone.png" 
                                                   width="20" 
-                                                  height="20" 
+                                                  height="20"
                                                   alt="">
                                           </td>
-                                          <td align="left" valign="bottom">
+                                          <td align="left" valign="middle">
                                             <a  href="tel:+74965196171" 
                                                 target="_blank" 
                                                 style="text-decoration: none; font-family: &#39;Arial&#39;,sans-serif;font-style: normal;font-weight: 400;font-size: 14px;line-height: 100%;color: #000000;">+7 (496) 519-61-71 доб. 999</a>
@@ -113,10 +113,10 @@
                                           <td align="left" width="30">
                                             <img  src="../assets/phone.png" 
                                                   width="20" 
-                                                  height="20" 
+                                                  height="20"
                                                   alt="">
                                           </td>
-                                          <td align="left" valign="bottom">
+                                          <td align="left" valign="middle">
                                             <a  href="tel:+79265256750" 
                                                 target="_blank" 
                                                 style="text-decoration: none; font-family: &#39;Arial&#39;,sans-serif;font-style: normal;font-weight: 400;font-size: 14px;line-height: 100%;color: #000000;">+7 (000) 000-00-00</a>
@@ -136,7 +136,8 @@
                                           <td align="left" width="30">
                                             <img  src="../assets/globe.png" 
                                                   width="20" 
-                                                  height="20" 
+                                                  height="20"
+                                                  style="margin-top: 6px"
                                                   alt="">
                                           </td>
                                           <td align="left">
@@ -154,7 +155,8 @@
                                           <td align="left" width="30">
                                             <img  src="../assets/tg.png" 
                                                   width="20" 
-                                                  height="20" 
+                                                  height="20"
+                                                  style="margin-top: 6px"
                                                   alt="">
                                           </td>
                                           <td align="left">

@@ -1,5 +1,4 @@
 <mj-section
-  border-bottom="4px solid #EF9B05"
   >
   <mj-column width="640px">
     <mj-image

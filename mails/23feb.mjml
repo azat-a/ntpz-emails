@@ -15,6 +15,6 @@
   <mj-include path="../blocks/23feb-hero.mjml" />
 
 
-  <mj-include path="../blocks/footer-full-signature.mjml" />
+  <mj-include path="../blocks/footer-info-text.mjml" />
 </mj-body>
 </mjml>

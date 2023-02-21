@@ -9,7 +9,8 @@
                     cellpadding="0" 
                     cellspacing="0" 
                     width="100%" 
-                    style="max-width: 640px; min-width: 560px; background-color: #FFFCF7; border-radius: 0px 0px 10px 10px; border-left: 2px solid rgba(0, 0, 0, 0.05);border-right: 2px solid rgba(0, 0, 0, 0.05);border-bottom: 2px solid rgba(0, 0, 0, 0.05); border-collapse: separate; background-repeat: no-repeat">
+                    class="bg-gradient-footer signature-table-border"
+                    style="max-width: 640px; min-width: 560px;">
               <tbody>
                 <tr>
                   <td align="center">
@@ -51,9 +52,9 @@
                               <tbody>
                                 <tr>
                                   <td align="left">
-                                    <p style="margin: 0; padding: 0; font-family: &#39;Arial&#39;,sans-serif;font-style: normal;font-weight: 400;font-size: 16px;line-height: 16px;color: #000000;opacity: 0.56;">Мокин</p>
-                                    <p style="margin: 0; padding: 0; margin-top: 6px; font-family: &#39;Arial&#39;,sans-serif;font-style: normal;font-weight: 700;font-size: 18px;line-height: 18px;color: #000000;">Имя Фамилия</p>
-                                    <p style="margin: 0; padding: 0; margin-top: 8px; font-family: &#39;Arial&#39;,sans-serif;font-style: normal;font-weight: 400;font-size: 10px;line-height: 10px;color: #000000;letter-spacing: 0.2em;text-transform: uppercase;color: #000000;opacity: 0.56;">Должность</p>
+                                    <p class="signature-header">Мокин</p>
+                                    <p class="signature-body">Имя Фамилия</p>
+                                    <p class="signature-ps">Должность</p>
                                   </td>
                                   <td align="right" valign="top">
                                   logo-placeholder
@@ -89,12 +90,15 @@
                                             <img  src="../assets/phone.png" 
                                                   width="20" 
                                                   height="20"
-                                                  alt="">
+                                                  alt="phone">
                                           </td>
                                           <td align="left" valign="middle">
                                             <a  href="tel:+74965196171" 
-                                                target="_blank" 
-                                                style="text-decoration: none; font-family: &#39;Arial&#39;,sans-serif;font-style: normal;font-weight: 400;font-size: 14px;line-height: 100%;color: #000000;">+7 (496) 519-61-71 доб. 999</a>
+                                                target="_blank"
+                                                class="standart-font"
+                                                >
+                                                +7 (496) 519-61-71 доб. 999
+                                            </a>
                                           </td>
                                         </tr>
                                         <tr>
@@ -107,12 +111,15 @@
                                             <img  src="../assets/phone.png" 
                                                   width="20" 
                                                   height="20"
-                                                  alt="">
+                                                  alt="phone">
                                           </td>
                                           <td align="left" valign="middle">
                                             <a  href="tel:+79265256750" 
                                                 target="_blank" 
-                                                style="text-decoration: none; font-family: &#39;Arial&#39;,sans-serif;font-style: normal;font-weight: 400;font-size: 14px;line-height: 100%;color: #000000;">+7 (000) 000-00-00</a>
+                                                class="standart-font"
+                                                >
+                                                +7 (000) 000-00-00
+                                            </a>
                                           </td>
                                         </tr>
                                       </tbody>
@@ -132,12 +139,15 @@
                                                   width="20" 
                                                   height="20"
                                                   style="padding-top: 6px;"
-                                                  alt="">
+                                                  alt="url">
                                           </td>
                                           <td align="left">
                                             <a  href="https://ntpz.ru/" 
                                                 target="_blank" 
-                                                style="text-decoration: none; font-family: &#39;Arial&#39;,sans-serif;font-style: normal;font-weight: 400;font-size: 14px;line-height: 100%;color: #000000;">www.ntpz.ru</a>
+                                                class="standart-font"
+                                                >
+                                                www.ntpz.ru
+                                            </a>
                                           </td>
                                         </tr>
                                         <tr>
@@ -151,12 +161,15 @@
                                                   width="20" 
                                                   height="20"
                                                   style="margin-top: 6px"
-                                                  alt="">
+                                                  alt="social">
                                           </td>
                                           <td align="left">
                                             <a  href="https://t.me/pipesntpz" 
-                                                target="_blank" 
-                                                style="text-decoration: none; font-family: &#39;Arial&#39;,sans-serif;font-style: normal;font-weight: 400;font-size: 14px;line-height: 100%;color: #000000;">@pipesntpz</a>
+                                                target="_blank"
+                                                class="standart-font"
+                                                >
+                                                @pipesntpz
+                                            </a>
                                           </td>
                                         </tr>
                                       </tbody>

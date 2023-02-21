@@ -1,10 +1,65 @@
  <mj-style>
  a {
-     text-decoration: none;
-     color: inherit;
+    text-decoration: none;
+    color: inherit;
  }
+
  .bg-gradient-footer {
     background-color: rgb(255, 255, 255);
-        background-image: linear-gradient(rgb(252, 235, 205) 0%, rgb(254, 254, 254) 48.96%);
+    background-image: linear-gradient(rgb(252, 235, 205) 0%, rgb(254, 254, 254) 48.96%);
+ }
+
+ .signature-table-border {
+    border-radius: 0px 0px 10px 10px; 
+    border-left: 2px solid rgba(0, 0, 0, 0.05);
+    border-right: 2px solid rgba(0, 0, 0, 0.05);
+    border-bottom: 2px solid rgba(0, 0, 0, 0.05); 
+    border-collapse: separate; 
+    background-repeat: no-repeat
+ }
+ .standart-font {
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    color: #000000;
+ }
+ .signature-header {
+    margin: 0;
+    padding: 0; 
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    color: #000000;
+    opacity: 0.56;
+ }
+ .signature-body {
+    margin: 0; 
+    padding: 0; 
+    margin-top: 6px; 
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 18px;
+    color: #000000;
+ }
+ .signature-ps {
+    margin: 0; 
+    padding: 0; 
+    margin-top: 8px; 
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 10px;
+    color: #000000;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #000000;
+    opacity: 0.56;
  }
  </mj-style>

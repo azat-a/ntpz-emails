@@ -9,8 +9,8 @@
                     cellpadding="0" 
                     cellspacing="0" 
                     width="100%"
-                    class="bg-gradient-footer"
-                    style="max-width: 640px; min-width: 560px;  border-radius: 0px 0px 10px 10px; border-left: 2px solid rgba(0, 0, 0, 0.05);border-right: 2px solid rgba(0, 0, 0, 0.05);border-bottom: 2px solid rgba(0, 0, 0, 0.05); border-collapse: separate; background-repeat: no-repeat">
+                    class="bg-gradient-footer signature-table-border"
+                    style="max-width: 640px; min-width: 560px;">
               <tbody>
                 <tr>
                   <td align="center">
@@ -52,7 +52,7 @@
                               <tbody>
                                 <tr>
                                   <td align="left">
-                                    <p style="margin: 0; padding: 0; margin-top: 6px; font-family: &#39;Arial&#39;,sans-serif;font-style: normal;font-weight: 700;font-size: 18px;line-height: 22px;color: #000000;">
+                                    <p class="signature-body">
                                     С уважением, команда Ногинского трубопрофильного завода
                                     </p>
                                   </td>
@@ -93,27 +93,34 @@
                                                   alt="">
                                           </td>
                                           <td align="left" valign="middle">
-                                            <a  href="tel:+74965196171" 
-                                                target="_blank" 
-                                                style="text-decoration: none; font-family: &#39;Arial&#39;,sans-serif;font-style: normal;font-weight: 400;font-size: 14px;line-height: 100%;color: #000000;">+7 (496) 519-61-71 доб. 999</a>
+                                              <a  href="tel:+74965196171" 
+                                                target="_blank"
+                                                class="standart-font"
+                                                >
+                                                +7 (496) 519-61-71 доб. 999
+                                            </a>
                                           </td>
                                         </tr>
                                         <tr>
-                                          <td height="16" 
+                                          <td height="10" 
                                               style="line-height: 16px">
                                           </td>
                                         </tr>
                                         <tr>
                                           <td align="left" width="30">
-                                            <img  src="../assets/phone.png" 
+                                            <img  src="../assets/mail.png" 
                                                   width="20" 
                                                   height="20"
-                                                  alt="">
+                                                  style="padding-top: 6px;"
+                                                  alt="mail">
                                           </td>
                                           <td align="left" valign="middle">
-                                            <a  href="tel:+79265256750" 
-                                                target="_blank" 
-                                                style="text-decoration: none; font-family: &#39;Arial&#39;,sans-serif;font-style: normal;font-weight: 400;font-size: 14px;line-height: 100%;color: #000000;">+7 (000) 000-00-00</a>
+                                               <a href="mailto:zakaz@ntpz.ru" 
+                                                 target="_blank"
+                                                 class="standart-font"
+                                                >
+                                                zakaz@ntpz.ru
+                                            </a>
                                           </td>
                                         </tr>
                                       </tbody>
@@ -133,12 +140,15 @@
                                                   width="20" 
                                                   height="20"
                                                   style="padding-top: 6px;"
-                                                  alt="">
+                                                  alt="url">
                                           </td>
                                           <td align="left">
                                             <a  href="https://ntpz.ru/" 
                                                 target="_blank" 
-                                                style="text-decoration: none; font-family: &#39;Arial&#39;,sans-serif;font-style: normal;font-weight: 400;font-size: 14px;line-height: 100%;color: #000000;">www.ntpz.ru</a>
+                                                class="standart-font"
+                                                >
+                                                www.ntpz.ru
+                                            </a>
                                           </td>
                                         </tr>
                                         <tr>
@@ -152,12 +162,15 @@
                                                   width="20" 
                                                   height="20"
                                                   style="margin-top: 6px"
-                                                  alt="">
+                                                  alt="social">
                                           </td>
                                           <td align="left">
-                                            <a  href="https://t.me/pipesntpz" 
-                                                target="_blank" 
-                                                style="text-decoration: none; font-family: &#39;Arial&#39;,sans-serif;font-style: normal;font-weight: 400;font-size: 14px;line-height: 100%;color: #000000;">@pipesntpz</a>
+                                             <a  href="https://t.me/pipesntpz" 
+                                                target="_blank"
+                                                class="standart-font"
+                                                >
+                                                @pipesntpz
+                                            </a>
                                           </td>
                                         </tr>
                                       </tbody>

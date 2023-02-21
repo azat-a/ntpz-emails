@@ -1,52 +1,188 @@
-<mj-wrapper css-class="footer-section">
-<mj-section padding="40px 40px 16px 40px">
-  <mj-column width="75%">
-    <mj-text align="left" font-size="16px" padding-bottom="6px" font-family="Arial, sans-serif">
-      <span style="opacity: 0.7;"> Мокин </span>
-    </mj-text>
-    <mj-text align="left" font-size="18px" padding-bottom="8px" font-family="Arial, sans-serif">
-      <span> <b> Имя Фамилия </b> </span>
-    </mj-text>
-    <mj-text align="left" font-size="15px" letter-spacing="2px">
-      <span style="opacity: 0.7;"> должность </span>
-    </mj-text>
-  </mj-column>
-  <mj-column width="25%" vertical-align="top">
-    <mj-image align="right" src="../assets/logo.png" alt="small-logo"></mj-image>
+<mj-section>
+  <mj-column>
+    <mj-table>
+      <tbody>
+        <tr>
+          <td align="left">
+            <br>
+            <table  align="left" 
+                    cellpadding="0" 
+                    cellspacing="0" 
+                    width="100%" 
+                    style="max-width: 640px; min-width: 560px; background-color: #FFFCF7; border-radius: 0px 0px 10px 10px; border-left: 2px solid rgba(0, 0, 0, 0.05);border-right: 2px solid rgba(0, 0, 0, 0.05);border-bottom: 2px solid rgba(0, 0, 0, 0.05); border-collapse: separate; background-repeat: no-repeat">
+              <tbody>
+                <tr>
+                  <td align="center">
+                    <table  align="center" 
+                            cellpadding="0" 
+                            cellspacing="0" 
+                            width="100%" 
+                            style="max-width: 640px; min-width: 560px; background-color: #EE9B05;">
+                      <tbody>
+                        <tr>
+                          <td height="8" 
+                              style="line-height: 8px">
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td height="30" 
+                      style="line-height: 30px">
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">
+                    <table  align="center" 
+                            cellpadding="0" 
+                            cellspacing="0" 
+                            width="100%" 
+                            style="max-width: 640px; min-width: 496px;">
+                      <tbody>
+                        <tr>
+                          <td align="center">
+                            <table  align="center" 
+                                    cellpadding="0" 
+                                    cellspacing="0" 
+                                    width="100%" 
+                                    style="max-width: 496px; min-width: 496px;">
+                              <tbody>
+                                <tr>
+                                  <td align="left">
+                                    <p style="margin: 0; padding: 0; font-family: &#39;Arial&#39;,sans-serif;font-style: normal;font-weight: 400;font-size: 16px;line-height: 16px;color: #000000;opacity: 0.56;">Мокин</p>
+                                    <p style="margin: 0; padding: 0; margin-top: 6px; font-family: &#39;Arial&#39;,sans-serif;font-style: normal;font-weight: 700;font-size: 18px;line-height: 18px;color: #000000;">Имя Фамилия</p>
+                                    <p style="margin: 0; padding: 0; margin-top: 8px; font-family: &#39;Arial&#39;,sans-serif;font-style: normal;font-weight: 400;font-size: 10px;line-height: 10px;color: #000000;letter-spacing: 0.2em;text-transform: uppercase;color: #000000;opacity: 0.56;">Должность</p>
+                                  </td>
+                                  <td align="right" valign="top">
+                                    <a  href="" 
+                                        target="_blank" 
+                                        style="text-decoration: none">
+                                      <img  src="../assets/logo.png" 
+                                            width="124" 
+                                            height="40" 
+                                            alt="">
+                                    </a>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td height="20" 
+                                      style="line-height: 20px">
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td align="center">
+                            <table  align="center" 
+                                    cellpadding="0" 
+                                    cellspacing="0" 
+                                    width="100%" 
+                                    style="max-width: 496px; min-width: 496px;">
+                              <tbody>
+                                <tr>
+                                  <td align="left">
+                                    <table  align="left" 
+                                            cellpadding="0" 
+                                            cellspacing="0" 
+                                            width="100%" 
+                                            style="max-width: 248px; min-width: 248px;">
+                                      <tbody>
+                                        <tr>
+                                          <td align="left" width="30">
+                                            <img  src="../assets/phone.png" 
+                                                  width="20" 
+                                                  height="20" 
+                                                  alt="">
+                                          </td>
+                                          <td align="left" valign="bottom">
+                                            <a  href="tel:+74965196171" 
+                                                target="_blank" 
+                                                style="text-decoration: none; font-family: &#39;Arial&#39;,sans-serif;font-style: normal;font-weight: 400;font-size: 14px;line-height: 100%;color: #000000;">+7 (496) 519-61-71 доб. 999</a>
+                                          </td>
+                                        </tr>
+                                        <tr>
+                                          <td height="16" 
+                                              style="line-height: 16px">
+                                          </td>
+                                        </tr>
+                                        <tr>
+                                          <td align="left" width="30">
+                                            <img  src="../assets/phone.png" 
+                                                  width="20" 
+                                                  height="20" 
+                                                  alt="">
+                                          </td>
+                                          <td align="left" valign="bottom">
+                                            <a  href="tel:+79265256750" 
+                                                target="_blank" 
+                                                style="text-decoration: none; font-family: &#39;Arial&#39;,sans-serif;font-style: normal;font-weight: 400;font-size: 14px;line-height: 100%;color: #000000;">+7 (000) 000-00-00</a>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </td>
+                                  <td align="left">
+                                    <table  align="left" 
+                                            cellpadding="0" 
+                                            cellspacing="0" 
+                                            width="100%" 
+                                            style="max-width: 248px; min-width: 248px;">
+                                      <tbody>
+                                        <tr>
+                                          <td align="left" width="30">
+                                            <img  src="../assets/globe.png" 
+                                                  width="20" 
+                                                  height="20" 
+                                                  alt="">
+                                          </td>
+                                          <td align="left">
+                                            <a  href="https://ntpz.ru/" 
+                                                target="_blank" 
+                                                style="text-decoration: none; font-family: &#39;Arial&#39;,sans-serif;font-style: normal;font-weight: 400;font-size: 14px;line-height: 100%;color: #000000;">www.ntpz.ru</a>
+                                          </td>
+                                        </tr>
+                                        <tr>
+                                          <td height="16" 
+                                              style="line-height: 16px">
+                                          </td>
+                                        </tr>
+                                        <tr>
+                                          <td align="left" width="30">
+                                            <img  src="../assets/tg.png" 
+                                                  width="20" 
+                                                  height="20" 
+                                                  alt="">
+                                          </td>
+                                          <td align="left">
+                                            <a  href="https://t.me/pipesntpz" 
+                                                target="_blank" 
+                                                style="text-decoration: none; font-family: &#39;Arial&#39;,sans-serif;font-style: normal;font-weight: 400;font-size: 14px;line-height: 100%;color: #000000;">@pipesntpz</a>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="32" style="line-height: 32px"></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <br>
+          </td>
+        </tr>
+    </mj-table>
   </mj-column>
 </mj-section>
-<mj-section padding-bottom="20px">
-  <mj-column width="10%" padding-top="8px">
-    <mj-image align="right" src="../assets/phone.png" alt="phone" width="20px"></mj-image>
-  </mj-column>
-  <mj-column width="40%">
-    <mj-text align="left" font-size="15px" padding="12px 20px 0px 10px">
-      <a href="tel:+7 (496) 519-61-71"> +7 (496) 519-61-71 доб. 999 </a>
-    </mj-text>
-  </mj-column>
-  <mj-column width="5%" padding="10px 0px">
-    <mj-image align="left" src="../assets/globe.png" alt="globe" width="20px"></mj-image>
-  </mj-column>
-  <mj-column width="45%">
-    <mj-text align="left" font-size="15px" padding="12px 20px 16px 2px">
-      <a href="https://ntpz.ru/" target="_blank"> www.ntpz.ru </a>
-    </mj-text>
-  </mj-column>
-  <mj-column width="10%" padding-top="8px">
-    <mj-image align="right" src="../assets/phone.png" alt="phone" width="20pxpx"></mj-image>
-  </mj-column>
-  <mj-column width="40%">
-    <mj-text align="left" font-size="15px" padding="12px 20px 16px 12px">
-      <a href="tel:+7 (496) 519-61-71"> +7 (000) 000-00-00 </a>
-    </mj-text>
-  </mj-column>
-  <mj-column width="5%" padding="10px 0px">
-    <mj-image align="left" src="../assets/tg.png" alt="tg" width="20pxpx"></mj-image>
-  </mj-column>
-  <mj-column width="45%">
-    <mj-text align="left" font-size="15px" padding="12px 20px 16px 2px">
-      <a href="https://t.me/pipesntpz" target="_blank"> @pipesntpz </a>
-    </mj-text>
-  </mj-column>
-</mj-section>
-</mj-wrapper>

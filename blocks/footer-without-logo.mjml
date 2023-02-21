@@ -8,9 +8,8 @@
             <table  align="left" 
                     cellpadding="0" 
                     cellspacing="0" 
-                    width="100%"
-                    class="bg-gradient-footer"
-                    style="max-width: 640px; min-width: 560px; border-radius: 0px 0px 10px 10px; border-left: 2px solid rgba(0, 0, 0, 0.05);border-right: 2px solid rgba(0, 0, 0, 0.05);border-bottom: 2px solid rgba(0, 0, 0, 0.05); border-collapse: separate; background-repeat: no-repeat">
+                    width="100%" 
+                    style="max-width: 640px; min-width: 560px; background-color: #FFFCF7; border-radius: 0px 0px 10px 10px; border-left: 2px solid rgba(0, 0, 0, 0.05);border-right: 2px solid rgba(0, 0, 0, 0.05);border-bottom: 2px solid rgba(0, 0, 0, 0.05); border-collapse: separate; background-repeat: no-repeat">
               <tbody>
                 <tr>
                   <td align="center">
@@ -57,14 +56,7 @@
                                     <p style="margin: 0; padding: 0; margin-top: 8px; font-family: &#39;Arial&#39;,sans-serif;font-style: normal;font-weight: 400;font-size: 10px;line-height: 10px;color: #000000;letter-spacing: 0.2em;text-transform: uppercase;color: #000000;opacity: 0.56;">Должность</p>
                                   </td>
                                   <td align="right" valign="top">
-                                    <a  href="" 
-                                        target="_blank" 
-                                        style="text-decoration: none">
-                                      <img  src="../assets/logo.png" 
-                                            width="124" 
-                                            height="40" 
-                                            alt="">
-                                    </a>
+                                  logo-placeholder
                                   </td>
                                 </tr>
                                 <tr>

@@ -10,7 +10,7 @@
                     cellspacing="0" 
                     width="100%"
                     class="bg-gradient-footer"
-                    style="max-width: 640px; min-width: 560px; border-radius: 0px 0px 10px 10px; border-left: 2px solid rgba(0, 0, 0, 0.05);border-right: 2px solid rgba(0, 0, 0, 0.05);border-bottom: 2px solid rgba(0, 0, 0, 0.05); border-collapse: separate; background-repeat: no-repeat">
+                    style="max-width: 640px; min-width: 560px;  border-radius: 0px 0px 10px 10px; border-left: 2px solid rgba(0, 0, 0, 0.05);border-right: 2px solid rgba(0, 0, 0, 0.05);border-bottom: 2px solid rgba(0, 0, 0, 0.05); border-collapse: separate; background-repeat: no-repeat">
               <tbody>
                 <tr>
                   <td align="center">
@@ -52,19 +52,12 @@
                               <tbody>
                                 <tr>
                                   <td align="left">
-                                    <p style="margin: 0; padding: 0; font-family: &#39;Arial&#39;,sans-serif;font-style: normal;font-weight: 400;font-size: 16px;line-height: 16px;color: #000000;opacity: 0.56;">Мокин</p>
-                                    <p style="margin: 0; padding: 0; margin-top: 6px; font-family: &#39;Arial&#39;,sans-serif;font-style: normal;font-weight: 700;font-size: 18px;line-height: 18px;color: #000000;">Имя Фамилия</p>
-                                    <p style="margin: 0; padding: 0; margin-top: 8px; font-family: &#39;Arial&#39;,sans-serif;font-style: normal;font-weight: 400;font-size: 10px;line-height: 10px;color: #000000;letter-spacing: 0.2em;text-transform: uppercase;color: #000000;opacity: 0.56;">Должность</p>
+                                    <p style="margin: 0; padding: 0; margin-top: 6px; font-family: &#39;Arial&#39;,sans-serif;font-style: normal;font-weight: 700;font-size: 18px;line-height: 22px;color: #000000;">
+                                    С уважением, команда Ногинского трубопрофильного завода
+                                    </p>
                                   </td>
                                   <td align="right" valign="top">
-                                    <a  href="" 
-                                        target="_blank" 
-                                        style="text-decoration: none">
-                                      <img  src="../assets/logo.png" 
-                                            width="124" 
-                                            height="40" 
-                                            alt="">
-                                    </a>
+                                  logo-placeholder
                                   </td>
                                 </tr>
                                 <tr>
@@ -76,7 +69,7 @@
                             </table>
                           </td>
                         </tr>
-                        <tr>
+                       <tr>
                           <td align="center">
                             <table  align="center" 
                                     cellpadding="0" 
@@ -171,8 +164,10 @@
                                     </table>
                                   </td>
                                 </tr>
+                                </tr>
                               </tbody>
                             </table>
+                          </td>
                         </tr>
                         <tr>
                           <td height="32" style="line-height: 32px"></td>

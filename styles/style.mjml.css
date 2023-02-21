@@ -3,4 +3,8 @@
      text-decoration: none;
      color: inherit;
  }
+ .bg-gradient-footer {
+    background-color: rgb(255, 255, 255);
+        background-image: linear-gradient(rgb(252, 235, 205) 0%, rgb(254, 254, 254) 48.96%);
+ }
  </mj-style>

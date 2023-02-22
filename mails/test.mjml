@@ -11,6 +11,6 @@
 
   <mj-spacer height="100px"/>
 
-  <mj-include path="../blocks/footer-full-signature.mjml" />
+  <mj-include path="../blocks/footer-without-logo.mjml" />
 </mj-body>
 </mjml>

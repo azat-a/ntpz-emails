@@ -7,14 +7,12 @@
             <table width="100%">
               <tr>
                 <td>
-                  <p class="signature-header">Мокин</p>
-                  <p class="signature-body">Имя Фамилия</p>
-                  <p class="signature-ps">Должность</p>
+                  <p class="signature-body">
+                    С уважением, команда Ногинского трубопрофильного завода
+                  </p>
                 </td>
                 <td align="right" valign="top">
-                  <a href="" target="_blank">
-                    <img src="../assets/logo.png" width="124" height="40" alt="logo">
-                  </a>
+                  logo placeholder
                 </td>
               </tr>
               <tr>
@@ -31,7 +29,7 @@
             <table>
               <tr>
                 <td width="5%">
-                  <img src="https://i.ibb.co/cbr2NrB/phone.png" width="20px" />
+                  <img src="../assets/phone.png" width="20px" />
                 </td>
                 <td width="40%" align="left">
                   <a href="tel:+74965196171" target="_blank" class="standart-font">
@@ -49,12 +47,12 @@
             <table>
               <tr>
                 <td width="5%" valign="middle">
-                  <img src="https://i.ibb.co/WD48Yjd/tg.png" width="20px" style="margin-top: 6px" />
+                  <img src="../assets/mail.png" width="20px" style="margin-top: 6px" />
                 </td>
                 <td width="40%">
-                  <a href="https://t.me/pipesntpz" target="_blank" class="standart-font">
-                    @pipesntpz
-                  </a>
+                    <a href="mailto:zakaz@ntpz.ru" target="_blank" class="standart-font">
+                        zakaz@ntpz.ru
+                    </a>
                 </td>
               </tr>
               <tr>
@@ -69,12 +67,12 @@
             <table>
               <tr>
                 <td width="5%">
-                  <img src="https://i.ibb.co/cbr2NrB/phone.png" width="20px" />
+                  <img src="../assets/globe.png" width="20px" />
                 </td>
                 <td width="40%" align="left">
-                  <a href="tel:+74965196171" target="_blank" class="standart-font">
-                    +7 (000) 000-00-00
-                  </a>
+                <a href="https://ntpz.ru/" target="_blank" class="standart-font">
+                    www.ntpz.ru
+                </a>
                 </td>
               </tr>
             </table>
@@ -83,12 +81,12 @@
             <table>
               <tr>
                 <td width="5%">
-                  <img src="https://i.ibb.co/YBJgzNS/globe.png" width="20px" style="margin-top: 6px" />
+                  <img src="../assets/tg.png" width="20px" style="margin-top: 6px" />
                 </td>
                 <td width="40%">
-                  <a href="https://ntpz.ru/" target="_blank" class="standart-font">
-                    www.ntpz.ru
-                  </a>
+                    <a href="https://t.me/pipesntpz" target="_blank" class="standart-font">
+                        @pipesntpz
+                    </a>
                 </td>
               </tr>
             </table>

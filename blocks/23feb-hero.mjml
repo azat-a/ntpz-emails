@@ -2,33 +2,70 @@
   background-url="../assets/23feb-hero-text-bg.png"
   background-size="cover"
   background-color="#EE9B05">
-  <mj-column width="264px">
-    <mj-image
-    align="left"
-    src="../assets/23feb-hero-illustration.png"
-    alt=""
-    width="264px"
-    align="left" />
-  </mj-column>
-
-  <!-- <mj-column width="64px">
-    <mj-image
-    align="left"
-    src="../assets/23feb-hero-gap.png"
-    alt=""
-    width="265px"
-    align="left" />
-  </mj-column> -->
 
   <mj-column
-  width="376px"
-  padding="32px 32px 32px 16px"
-  >
-  <mj-text align="left" font-family="'Gotham Pro', sans-serif" font-size="24px">
-    Поздравляем с днём защитника отечества!
-  </mj-text>
-  <mj-text align="left" padding-top="16px" font-family="'Gotham Pro', sans-serif" font-size="12px">
-    Дорогие коллеги! Поздравляем вас с праздником и желаем мужества и успехов в работе!
-  </mj-text>
+    width="40%"
+    vertical-align="middle"
+    css-class="desktop">
+
+    <mj-image
+      align="left"
+      src="../assets/23feb-illustration-desktop.png"
+      alt="23 февраль"
+      width="320px"
+      align="left" />
+  </mj-column>
+
+  <mj-column
+    width="30%"
+    vertical-align="middle"
+    css-class="tablet">
+
+    <mj-image
+      align="left"
+      src="../assets/23feb-illustration-tablet.png"
+      alt="23 февраля"
+      width="320px"
+      align="left" />
+  </mj-column>
+
+  <mj-column
+    width="80%"
+    vertical-align="middle"
+    css-class="mobile">
+
+    <mj-image
+      align="left"
+      src="../assets/23feb-illustration-mobile.png"
+      alt="23 февраля"
+      width="480px"
+      align="center" />
+  </mj-column>
+
+  <mj-column
+    width="60%"
+    css-class="desktop"
+    vertical-align="middle"
+    padding="32px 32px 32px 16px">
+
+    <mj-include path="../blocks/23feb-text.mjml" />
+  </mj-column>
+
+  <mj-column
+    width="70%"
+    css-class="tablet"
+    vertical-align="middle"
+    padding="32px 32px 32px 16px">
+
+    <mj-include path="../blocks/23feb-text.mjml" />
+  </mj-column>
+
+  <mj-column
+    width="20%"
+    css-class="mobile"
+    vertical-align="middle"
+    padding="32px 32px 32px 16px">
+
+    <mj-include path="../blocks/23feb-text.mjml" />
   </mj-column>
 </mj-section>

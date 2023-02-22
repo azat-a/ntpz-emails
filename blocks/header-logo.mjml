@@ -4,7 +4,6 @@
     <mj-image
     src="../assets/horizontal.png"
     width="200px"
-    fluid-on-mobile="true"
     align="left"
     padding="16px 0 8px 16px"/>
   </mj-column>

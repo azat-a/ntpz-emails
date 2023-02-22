@@ -3,17 +3,42 @@
   <mj-attributes>
     <mj-all padding="0" />
   </mj-attributes>
+
   <mj-include path="../styles/style.mjml.css" />
   <mj-font name="Gotham Pro" href="../assets/fonts/stylesheet.css" />
+
+  <mj-style>
+    @media (min-width: 640px) {
+      *[class~=tablet] {
+        display: none !important;
+      }
+      *[class~=mobile] {
+        display: none !important;
+      }
+    }
+    @media (min-width: 481px) and (max-width: 640px) {
+      *[class~=desktop] {
+        display: none !important;
+      }
+      *[class~=mobile] {
+        display: none !important;
+      }
+    }
+    @media (max-width: 480px) {
+      *[class~=desktop] {
+        display: none !important;
+      }
+      *[class~=tablet] {
+        display: none !important;
+      }
+    }
+  </mj-style>
 </mj-head>
 
 <mj-body width="640px">
   <mj-include path="../blocks/header-logo.mjml" />
 
-  <!-- <mj-spacer height="100px"/> -->
-
   <mj-include path="../blocks/23feb-hero.mjml" />
-
 
   <mj-include path="../blocks/footer-full-signature.mjml" />
 </mj-body>

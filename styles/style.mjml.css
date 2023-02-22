@@ -10,6 +10,7 @@
  }
 
  .signature-table-border {
+    border-top: 8px solid #EE9B05;
     border-radius: 0px 0px 10px 10px; 
     border-left: 2px solid rgba(0, 0, 0, 0.05);
     border-right: 2px solid rgba(0, 0, 0, 0.05);

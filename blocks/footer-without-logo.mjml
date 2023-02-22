@@ -1,196 +1,98 @@
-<mj-section>
-  <mj-column>
-    <mj-table>
-      <tbody>
+<mj-wrapper>
+  <mj-section padding="30px 40px 16px 40px" css-class="bg-gradient-footer signature-table-border">
+    <mj-column>
+      <mj-table>
         <tr>
           <td align="left">
-            <br>
-            <table  align="left" 
-                    cellpadding="0" 
-                    cellspacing="0" 
-                    width="100%" 
-                    class="bg-gradient-footer signature-table-border"
-                    style="max-width: 640px; min-width: 560px;">
-              <tbody>
-                <tr>
-                  <td align="center">
-                    <table  align="center" 
-                            cellpadding="0" 
-                            cellspacing="0" 
-                            width="100%" 
-                            style="max-width: 640px; min-width: 560px; background-color: #EE9B05;">
-                      <tbody>
-                        <tr>
-                          <td height="8" 
-                              style="line-height: 8px">
-                          </td>
-                        </tr>
-                      </tbody>
-                    </table>
-                  </td>
-                </tr>
-                <tr>
-                  <td height="30" 
-                      style="line-height: 30px">
-                  </td>
-                </tr>
-                <tr>
-                  <td align="center">
-                    <table  align="center" 
-                            cellpadding="0" 
-                            cellspacing="0" 
-                            width="100%" 
-                            style="max-width: 640px; min-width: 496px;">
-                      <tbody>
-                        <tr>
-                          <td align="center">
-                            <table  align="center" 
-                                    cellpadding="0" 
-                                    cellspacing="0" 
-                                    width="100%" 
-                                    style="max-width: 546px; min-width: 496px;">
-                              <tbody>
-                                <tr>
-                                  <td align="left">
-                                    <p class="signature-header">Мокин</p>
-                                    <p class="signature-body">Имя Фамилия</p>
-                                    <p class="signature-ps">Должность</p>
-                                  </td>
-                                  <td align="right" valign="top">
-                                  logo-placeholder
-                                  </td>
-                                </tr>
-                                <tr>
-                                  <td height="20" 
-                                      style="line-height: 20px">
-                                  </td>
-                                </tr>
-                              </tbody>
-                            </table>
-                          </td>
-                        </tr>
-                        <tr>
-                          <td align="center">
-                            <table  align="center" 
-                                    cellpadding="0" 
-                                    cellspacing="0" 
-                                    width="100%" 
-                                    style="max-width: 546px; min-width: 496px;">
-                              <tbody>
-                                <tr>
-                                  <td align="left">
-                                    <table  align="left" 
-                                            cellpadding="0" 
-                                            cellspacing="0" 
-                                            width="100%" 
-                                            style="max-width: 210px; min-width: 210px;">
-                                      <tbody>
-                                        <tr>
-                                          <td align="left" width="30">
-                                            <img  src="../assets/phone.png" 
-                                                  width="20" 
-                                                  height="20"
-                                                  alt="phone">
-                                          </td>
-                                          <td align="left" valign="middle">
-                                            <a  href="tel:+74965196171" 
-                                                target="_blank"
-                                                class="standart-font"
-                                                >
-                                                +7 (496) 519-61-71 доб. 999
-                                            </a>
-                                          </td>
-                                        </tr>
-                                        <tr>
-                                          <td height="16" 
-                                              style="line-height: 16px">
-                                          </td>
-                                        </tr>
-                                        <tr>
-                                          <td align="left" width="30">
-                                            <img  src="../assets/phone.png" 
-                                                  width="20" 
-                                                  height="20"
-                                                  alt="phone">
-                                          </td>
-                                          <td align="left" valign="middle">
-                                            <a  href="tel:+79265256750" 
-                                                target="_blank" 
-                                                class="standart-font"
-                                                >
-                                                +7 (000) 000-00-00
-                                            </a>
-                                          </td>
-                                        </tr>
-                                      </tbody>
-                                    </table>
-                                  </td>
-                                  <td align="left">
-                                    <table  align="left" 
-                                            cellpadding="0" 
-                                            cellspacing="0" 
-                                            width="100%" 
-                                            style="max-width: 248px; min-width: 248px;">
-                                      <tbody>
-                                        <tr>
-                                          <td align="left"
-                                              width="30">
-                                            <img  src="../assets/globe.png" 
-                                                  width="20" 
-                                                  height="20"
-                                                  style="padding-top: 6px;"
-                                                  alt="url">
-                                          </td>
-                                          <td align="left">
-                                            <a  href="https://ntpz.ru/" 
-                                                target="_blank" 
-                                                class="standart-font"
-                                                >
-                                                www.ntpz.ru
-                                            </a>
-                                          </td>
-                                        </tr>
-                                        <tr>
-                                          <td height="10" 
-                                              style="line-height: 16px">
-                                          </td>
-                                        </tr>
-                                        <tr>
-                                          <td align="left" width="30">
-                                            <img  src="../assets/tg.png" 
-                                                  width="20" 
-                                                  height="20"
-                                                  style="margin-top: 6px"
-                                                  alt="social">
-                                          </td>
-                                          <td align="left">
-                                            <a  href="https://t.me/pipesntpz" 
-                                                target="_blank"
-                                                class="standart-font"
-                                                >
-                                                @pipesntpz
-                                            </a>
-                                          </td>
-                                        </tr>
-                                      </tbody>
-                                    </table>
-                                  </td>
-                                </tr>
-                              </tbody>
-                            </table>
-                        </tr>
-                        <tr>
-                          <td height="32" style="line-height: 32px"></td>
-                        </tr>
-                      </tbody>
-                    </table>
-                  </td>
-                </tr>
-              </tbody>
+            <table width="100%">
+              <tr>
+                <td>
+                  <p class="signature-header">Мокин</p>
+                  <p class="signature-body">Имя Фамилия</p>
+                  <p class="signature-ps">Должность</p>
+                </td>
+                <td align="right" valign="top">
+                 logo placeholder
+                </td>
+              </tr>
+              <tr>
+                <td height="15" style="line-height: 10px">
+                </td>
+              </tr>
             </table>
-            <br>
           </td>
         </tr>
-    </mj-table>
-  </mj-column>
-</mj-section>
+      </mj-table>
+      <mj-table>
+        <tr>
+          <td width="50%" align="left">
+            <table>
+              <tr>
+                <td width="5%">
+                  <img src="https://i.ibb.co/cbr2NrB/phone.png" width="20px" />
+                </td>
+                <td width="40%" align="left">
+                  <a href="tel:+74965196171" target="_blank" class="standart-font">
+                    +7 (496) 519-61-71 доб. 999
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td height="4" style="line-height: 10px">
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="50%" align="right">
+            <table>
+              <tr>
+                <td width="5%" valign="middle">
+                  <img src="https://i.ibb.co/WD48Yjd/tg.png" width="20px" style="margin-top: 6px" />
+                </td>
+                <td width="40%">
+                  <a href="https://t.me/pipesntpz" target="_blank" class="standart-font">
+                    @pipesntpz
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td height="4" style="line-height: 10px">
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" align="left">
+            <table>
+              <tr>
+                <td width="5%">
+                  <img src="https://i.ibb.co/cbr2NrB/phone.png" width="20px" />
+                </td>
+                <td width="40%" align="left">
+                  <a href="tel:+74965196171" target="_blank" class="standart-font">
+                    +7 (000) 000-00-00
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="50%" align="right">
+            <table>
+              <tr>
+                <td width="5%">
+                  <img src="https://i.ibb.co/YBJgzNS/globe.png" width="20px" style="margin-top: 6px" />
+                </td>
+                <td width="40%">
+                  <a href="https://ntpz.ru/" target="_blank" class="standart-font">
+                    www.ntpz.ru
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </mj-table>
+    </mj-column>
+  </mj-section>
+</mj-wrapper>

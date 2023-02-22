@@ -10,11 +10,9 @@
 <mj-body width="640px">
   <mj-include path="../blocks/header-logo.mjml" />
 
-  <!-- <mj-spacer height="100px"/> -->
-
   <mj-include path="../blocks/23feb-hero.mjml" />
 
-
-  <mj-include path="../blocks/footer-info-text.mjml" />
+<!-- <mj-spacer height="100px"/> -->
+  <mj-include path="../blocks/footer-full-signature.mjml" />
 </mj-body>
 </mjml>
